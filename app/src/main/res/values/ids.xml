@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="floatingActionButton" type="id">floatingActionButton</item>
+    <item name="pickDate" type="id" />
+    <item name="pickTime" type="id">pickTime</item>
+    <item name="descriptionEditText" type="id">descriptionEditText</item>
+    <item name="saveButton" type="id">saveButton</item>
+    <item name="dateTextView" type="id">dateTextView</item>
+    <item name="timeTextView" type="id">timeTextView</item>
+    <item name="descriptionTextView" type="id">descriptionTextView</item>
+    <item name="myRecyclerView" type="id">myRecyclerView</item>
+    <item name="saveFloatingActionButton" type="id">saveFloatingActionButton</item>
+    <item name="coordinatorLayout" type="id">coordinatorLayout</item>
+</resources>
